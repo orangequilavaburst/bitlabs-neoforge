@@ -1,0 +1,18 @@
+{
+
+  "item.bitlabs.raw_dragonite": "Raw Dragonite",
+  "item.bitlabs.dragonite_ingot": "Dragonite Ingot",
+  "item.bitlabs.dragonite_sword": "Dragonite Sword",
+  "item.bitlabs.dragonite_axe": "Dragonite Axe",
+  "item.bitlabs.dragonite_pickaxe": "Dragonite Pickaxe",
+  "item.bitlabs.dragonite_shovel": "Dragonite Shovel",
+  "item.bitlabs.dragonite_hoe": "Dragonite Hoe",
+
+  "block.bitlabs.dragonite_ore": "Dragonite Ore",
+  "block.bitlabs.deepslate_dragonite_ore": "Deepslate Dragonite Ore",
+  "block.bitlabs.raw_dragontie_block": "Raw Dragonite Block",
+  "block.bitlabs.dragonite_block": "Dragonite Block",
+
+  "itemGroup.bitlabs.bitlabs_tab": "J8-Bit's Experiments"
+
+}
