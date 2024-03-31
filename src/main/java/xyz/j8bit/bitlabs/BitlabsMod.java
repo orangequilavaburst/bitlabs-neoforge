@@ -21,7 +21,7 @@ import xyz.j8bit.bitlabs.item.ModItems;
 public class BitlabsMod
 {
     // Define mod id in a common place for everything to reference
-    public static final String MOD_ID = "data/bitlabs";
+    public static final String MOD_ID = "bitlabs";
     // Directly reference a slf4j logger
     private static final Logger LOGGER = LogUtils.getLogger();
 

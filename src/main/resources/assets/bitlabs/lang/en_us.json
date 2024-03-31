@@ -8,9 +8,12 @@
   "item.bitlabs.dragonite_shovel": "Dragonite Shovel",
   "item.bitlabs.dragonite_hoe": "Dragonite Hoe",
 
+  "item.bitlabs.baguette": "Baguette",
+  "item.bitlabs.sliced_bread": "Sliced Bread",
+
   "block.bitlabs.dragonite_ore": "Dragonite Ore",
   "block.bitlabs.deepslate_dragonite_ore": "Deepslate Dragonite Ore",
-  "block.bitlabs.raw_dragontie_block": "Raw Dragonite Block",
+  "block.bitlabs.raw_dragonite_block": "Raw Dragonite Block",
   "block.bitlabs.dragonite_block": "Dragonite Block",
 
   "itemGroup.bitlabs.bitlabs_tab": "J8-Bit's Experiments"
